@@ -1,4 +1,4 @@
-const produkAPI = 'http://localhost:3000/produk'; 
+const produkAPI = 'https://github.com/firmanhoy/Anyaman-Rotan/blob/main/json/data.json'; 
 
 function tampilkanProduk() {
   axios.get(produkAPI)
