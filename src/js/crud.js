@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/produk';
+const apiUrl = 'https://github.com/firmanhoy/Anyaman-Rotan/blob/main/json/data.json';
 
 // 
 document.addEventListener('DOMContentLoaded', function() {
