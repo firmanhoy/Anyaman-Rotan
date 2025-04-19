@@ -30,4 +30,3 @@ function tampilkanProduk() {
 }
 
 document.addEventListener('DOMContentLoaded', tampilkanProduk);
-
