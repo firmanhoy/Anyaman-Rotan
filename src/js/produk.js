@@ -17,7 +17,6 @@ function tampilkanProduk() {
                 <p class="card-text">${item.deskripsi}</p>
                 <div class="mt-auto d-flex justify-content-between align-items-center">
                   <span class="price">Rp ${item.harga.toLocaleString('id-ID')}</span>
-                  <a href="#" class="btn btn-primary">Lihat Detail</a>
                 </div>
               </div>
             </div>
