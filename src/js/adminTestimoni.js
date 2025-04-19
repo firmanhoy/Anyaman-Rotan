@@ -26,7 +26,7 @@ function loadTestimoniAdmin() {
           <td>${item.pesan}</td>
           <td class="text-center">${statusBadge}</td>
           <td class="text-center">
-            <button class="btn btn-sm btn-toggle btn-dark" onclick="toggleStatus(${item.id}, '${item.status}')">
+            <button class="btn btn-sm btn-toggle btn-dark" onclick="toggleStatus('${item.id}', '${item.status}')">
               ${item.status === 'tampil' ? 'Sembunyikan' : 'Tampilkan'}
             </button>
           </td>

@@ -52,7 +52,7 @@ function submitTestimoni(event) {
     fotoProduk: foto,
     rating: Number(rating),
     pesan: pesan,
-    status: "sembunyi"
+    status: "tampil"
   };
 
   axios.post(apiUrl, newTestimoni)
