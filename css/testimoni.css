@@ -1,0 +1,72 @@
+form label {
+    font-weight: 600;
+    color: #333;
+  }
+  
+  form input,
+  form select,
+  form textarea {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  form input:focus,
+  form select:focus,
+  form textarea:focus {
+    border-color: #0062cc;
+    box-shadow: 0 0 5px rgba(0, 98, 204, 0.3);
+  }
+
+  body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .testimoni-container {
+    padding: 60px 20px;
+  }
+
+  .testimoni-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0062cc;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .testimonial-card {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+  }
+
+  .testimonial-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  }
+
+  .testimonial-text {
+    font-style: italic;
+    color: #555;
+  }
+
+  .testimonial-name {
+    font-weight: bold;
+    color: #333;
+    margin-top: 15px;
+  }
+
+  .testimonial-rating i {
+    color: #ffc107;
+    margin-right: 3px;
+  }
+
+  .testimonial-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+  }
