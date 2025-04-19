@@ -1,12 +1,12 @@
 {
   "produk": [
     {
-      "id": "d251",
-      "nama": "cukurukuk",
+      "nama": "cukurukukuyuk",
       "kategori": "keranjang",
       "harga": 999999999999999,
       "deskripsi": "kucing amboy cukurukuk",
-      "foto": "https://scontent.fcgk3-3.fna.fbcdn.net/v/t39.30808-6/484029943_1201739151572438_7173949310810455288_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=iZw7-MMUM44Q7kNvwH8wPHb&_nc_oc=Adlg7YhyoJjpE0qAf7pUk9lCv3tPeKJD3LXXOVCdilnqAE8Ci4_M6aSCRfoQhmXsjk2JIAKxk2NOuEI-W0ZNzRoU&_nc_zt=23&_nc_ht=scontent.fcgk3-3.fna&_nc_gid=35foWV9PpnOP6pek3I3BkQ&oh=00_AfGFJHgXHAFmJWELu9rP-_A77xWZ2w54inXgC_Dbvbu53w&oe=6807D0AC"
+      "foto": "https://scontent.fcgk3-3.fna.fbcdn.net/v/t39.30808-6/484029943_1201739151572438_7173949310810455288_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=iZw7-MMUM44Q7kNvwH8wPHb&_nc_oc=Adlg7YhyoJjpE0qAf7pUk9lCv3tPeKJD3LXXOVCdilnqAE8Ci4_M6aSCRfoQhmXsjk2JIAKxk2NOuEI-W0ZNzRoU&_nc_zt=23&_nc_ht=scontent.fcgk3-3.fna&_nc_gid=35foWV9PpnOP6pek3I3BkQ&oh=00_AfGFJHgXHAFmJWELu9rP-_A77xWZ2w54inXgC_Dbvbu53w&oe=6807D0AC",
+      "id": "d251"
     },
     {
       "nama": "ABCD",
