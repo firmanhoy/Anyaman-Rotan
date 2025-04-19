@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/testimoni';
+const apiUrl = 'https://github.com/firmanhoy/Anyaman-Rotan/blob/main/json/data.json';
 
 
 function loadTestimoniUser() {
